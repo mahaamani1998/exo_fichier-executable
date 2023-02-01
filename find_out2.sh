@@ -14,6 +14,7 @@ do
 	let "non_exec+=1"
 	echo $i >>list_non_exec.txt
 	
-fi	
+fi
+
 done
 
